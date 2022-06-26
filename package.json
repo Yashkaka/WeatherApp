@@ -1,7 +1,7 @@
 {
  
     "name": "yashweatherapp",
-  "homepage ": "https://Yashkaka.github.io/WeatherApp",
+  "homepage": "https://Yashkaka.github.io/WeatherApp",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
